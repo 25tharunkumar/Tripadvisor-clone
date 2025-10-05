@@ -14,4 +14,4 @@ The project focuses on the basic structure, styling, and layout of a travel webs
 - **CSS3**  
 
 ## 🚀 How to Use  
-You can view the project live here: [TripAdvisor Frontend Clone](https://yourusername.github.io/repository-name/)  
+You can view the project live here: [TripAdvisor Frontend Clone] (https://25tharunkumar.github.io/Tripadvisor-clone/)   
